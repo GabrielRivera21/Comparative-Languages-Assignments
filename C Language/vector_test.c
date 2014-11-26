@@ -3,7 +3,7 @@
  * This program tests the character vector and its operations.
  */
 
-#include "char_vector.h"   // for Vector and its functions
+#include "vector.h"   // for Vector and its functions
 
 #include <stdio.h>   // for printf
 #include <stddef.h>  // for NULL definition

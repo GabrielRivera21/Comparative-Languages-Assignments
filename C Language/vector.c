@@ -4,7 +4,7 @@
  *  Date: 15/October/2014
  *  Description: Implements the Vector as a char array.
  */
-#include "char_vector.h"
+#include "vector.h"
 
 #include <stdbool.h> //for boolean
 #include <stdlib.h> //for malloc and free
