@@ -142,7 +142,7 @@ int partition(Vector *vct, int lo, int hi){
         while(left < right && vct->data[left] <= pivot)
             left++;
         while(right > left && vct->data[right] >= pivot)
-            right++;
+            right--;
         if(left < right){
             char temp = vct->data[left];
             vct->data[left] = vct->data[right];
