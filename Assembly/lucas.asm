@@ -1,8 +1,6 @@
 ########################################################################################
 #Lucas Numbers
 #By Gabriel Rivera Per-ossenkopp
-#Student ID: 841-11-6930
-#COTI 3205 Organizacion de Computadora Seccion: LK1
 #This program prints all the terms specified by the user of the Lucas Numbers sequence 
 #
 #Register Use:

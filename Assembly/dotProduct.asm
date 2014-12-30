@@ -1,8 +1,6 @@
 ########################################################################################
 #Dot Product
 #By Gabriel Rivera Per-ossenkopp
-#Student ID: 841-11-6930
-#COTI 3205 Organizacion de Computadora Seccion: LK1
 #This Program calculates the dot product of 2 vectors of the same size
 #
 #Register Use:

@@ -1,8 +1,6 @@
 ########################################################################################
 #ToUpperCase
 #By Gabriel Rivera Per-ossenkopp
-#Student ID: 841-11-6930
-#COTI 3205 Organizacion de Computadora Seccion: LK1
 #This Program prints the equivalent uppercase String of the user input string
 #
 #Register Use:
